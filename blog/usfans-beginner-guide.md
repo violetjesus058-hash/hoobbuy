@@ -9,6 +9,16 @@ title: 'Hoobbuy Spreadsheet Beginner Guide 2026: Your First Steps into Replica S
 - Sizing tips for clothing, shoes, and accessories
 - Common beginner mistakes and how to avoid them
 
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp"
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
 ## Introduction
 
 
@@ -18,15 +28,7 @@ Hoobbuy Spreadsheet has established itself as one of the more accessible platfor
 
 This guide walks you through everything a first-time buyer needs to know — from understanding what makes Hoobbuy Spreadsheet different from direct marketplace purchases to avoiding common sizing mistakes that lead to returns. Once you understand the basics, the [Hoobbuy shipping guide](/blog/usfans-shipping-guide/) explains delivery options and timelines, while the [Hoobbuy how to use](/blog/usfans-how-to-use/) guide covers dashboard navigation and key platform features.
 
-<figure class="article-image">
-  <img src="/images/clothing-wardrobe-organized-au-04.webp"
-       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
-</figure>
+
 
 ## Hoobbuy Spreadsheet Beginner Guide: What Is Hoobbuy Spreadsheet and How Does It Work?
 
@@ -54,7 +56,7 @@ When browsing, pay attention to batch version information listed for each produc
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
 </figure>
 
