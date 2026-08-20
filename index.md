@@ -1,15 +1,15 @@
 ---
 layout: home
-title: 'USFans Spreadsheet 2026 | USFans Finds and Category Guides'
-description: 'Explore USFans Spreadsheet 2026 through organized USFans finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
-category: USFans Spreadsheet
+title: 'Hoobbuy Spreadsheet 2026 | Hoobbuy Finds and Category Guides'
+description: 'Explore Hoobbuy Spreadsheet 2026 through organized Hoobbuy finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
+category: Hoobbuy Spreadsheet
 keywords:
-- USFans Spreadsheet 2026
-- USFans Spreadsheet
-- USFans finds
+- Hoobbuy Spreadsheet 2026
+- Hoobbuy Spreadsheet
+- Hoobbuy finds
 tags:
-- USFans Spreadsheet 2026
-- USFans Finds
+- Hoobbuy Spreadsheet 2026
+- Hoobbuy Finds
 - Fashion Discovery
 - Category Guides
 updated: '2026-08-14T00:00:00Z'
