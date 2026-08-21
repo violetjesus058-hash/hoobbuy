@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'Hoobuy Spreadsheet 2026 - Hoobuy Finds, Category Guides and Product Research',
     description: 'Explore Hoobuy Spreadsheet 2026 through organized Hoobuy finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['hoobuy spreadsheet 2026', 'hoobuy spreadsheet', 'hoobuy finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-9WJTE8DY0P',
+    ga4: 'G-ED8FNV82QG',
   },
 
   // ---- Announcement Bar ----
