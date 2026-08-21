@@ -1,14 +1,14 @@
 ---
 layout: home
-title: 'Blog: A 2026 Decision Path for Hoobbuy Spreadsheet'
-description: Explore Blog through a focused 2026 buying guide decision path for Hoobbuy Spreadsheet, with page-specific review cues and practical next steps. Built for.
+title: 'Blog: Hoobuy Spreadsheet Guide: Refunds, Returns and Delivery Troubleshooting'
+description: A Hoobuy Spreadsheet guide for researching refund and return steps, carrier choices, delivery issues and ordering-mistake checklists. Read practical platform-specific guidance before opening external shopping resources.
 category: Buying Guide
 tags:
 - Blog
 - Buying Guide
 - Decision Path
 - Page-Specific Review
-updated: '2026-08-14T00:00:00Z'
+updated: '2026-08-21T00:00:00Z'
 ---
 
 <script setup>
@@ -38,3 +38,7 @@ For Blog, apply stable criteria to every Blog candidate. Compare Blog relevance,
 ## Blog: Decide deliberately
 
 For Blog, return to the original purpose before selecting a Blog option. Choose Blog only when its remaining trade-offs are clear. Revisit Blog when new evidence changes a relevant condition. This Blog method gives Hoobbuy Spreadsheet readers a specific and repeatable review path.
+
+## Featured platform research
+
+Start with [Hoobuy Spreadsheet Guide: Refunds, Returns and Delivery Troubleshooting](/blog/hoobbuy-community-buying-guide/) for a platform-specific research path covering refund and delivery help. The page distinguishes community signals from current policy information and keeps unresolved questions visible.
