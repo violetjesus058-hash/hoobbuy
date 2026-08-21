@@ -1,10 +1,10 @@
 ---
-title: 'Hoobbuy Hats Spreadsheet | Hat Finds, Caps and Style Guides'
-description: 'Explore the Hoobbuy Hats Spreadsheet for hats, caps, beanies, bucket hats and fit guides. Compare focused Hoobbuy hat finds by style, materials and everyday use.'
+title: 'Hoobuy Hats Spreadsheet | Hat Finds, Caps and Style Guides'
+description: 'Explore the Hoobuy Hats Spreadsheet for hats, caps, beanies, bucket hats and fit guides. Compare focused Hoobuy hat finds by style, materials and everyday use.'
 category: Accessories
 tags:
-- Hoobbuy Hats Spreadsheet
-- Hoobbuy Hat Finds
+- Hoobuy Hats Spreadsheet
+- Hoobuy Hat Finds
 - Hats and Caps
 - Accessory Guides
 updated: '2026-08-14T00:00:00Z'
@@ -183,9 +183,9 @@ const brandOverview = [
 ]
 </script>
 
-# Hoobbuy Hats Spreadsheet
+# Hoobuy Hats Spreadsheet
 
-The Hoobbuy Hats Spreadsheet covers caps, beanies, bucket hats, fitted styles and everyday finishing pieces. Use the linked article cards below to compare fit, material, structure and styling context before exploring relevant Hoobbuy hat finds.
+The Hoobuy Hats Spreadsheet covers caps, beanies, bucket hats, fitted styles and everyday finishing pieces. Use the linked article cards below to compare fit, material, structure and styling context before exploring relevant Hoobuy hat finds.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -367,11 +367,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these hat-specific resources:
 
-- [Hoobbuy Hats Guide](/blog/usfans-hats/) — Hat styles, brand comparisons, and quality checks for 2026
-- [Hoobbuy Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
-- [Hoobbuy Accessories Guide](/blog/usfans-accessories/) — Complete accessories overview including hats, belts, and more
-- [Hoobbuy QC Photos](/blog/usfans-qc-photos/) — How to inspect hat quality using pre-shipment photos
-- [Hoobbuy Legit Check](/blog/usfans-legit-check/) — Authentication markers for branded headwear
+- [Hoobuy Hats Guide](/blog/usfans-hats/) — Hat styles, brand comparisons, and quality checks for 2026
+- [Hoobuy Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
+- [Hoobuy Accessories Guide](/blog/usfans-accessories/) — Complete accessories overview including hats, belts, and more
+- [Hoobuy QC Photos](/blog/usfans-qc-photos/) — How to inspect hat quality using pre-shipment photos
+- [Hoobuy Legit Check](/blog/usfans-legit-check/) — Authentication markers for branded headwear
 
 ## Explore More Categories
 

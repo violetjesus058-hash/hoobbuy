@@ -37,8 +37,8 @@ For Blog, apply stable criteria to every Blog candidate. Compare Blog relevance,
 
 ## Blog: Decide deliberately
 
-For Blog, return to the original purpose before selecting a Blog option. Choose Blog only when its remaining trade-offs are clear. Revisit Blog when new evidence changes a relevant condition. This Blog method gives Hoobbuy Spreadsheet readers a specific and repeatable review path.
+For Blog, return to the original purpose before selecting a Blog option. Choose Blog only when its remaining trade-offs are clear. Revisit Blog when new evidence changes a relevant condition. This Blog method gives Hoobuy Spreadsheet readers a specific and repeatable review path.
 
 ## Featured platform research
 
-Start with [Hoobuy Spreadsheet Guide: Refunds, Returns and Delivery Troubleshooting](/blog/hoobbuy-community-buying-guide/) for a platform-specific research path covering refund and delivery help. The page distinguishes community signals from current policy information and keeps unresolved questions visible.
+Start with [Hoobuy Spreadsheet Guide: Refunds, Returns and Delivery Troubleshooting](/blog/hoobuy-community-buying-guide/) for a platform-specific research path covering refund and delivery help. The page distinguishes community signals from current policy information and keeps unresolved questions visible.

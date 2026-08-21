@@ -1,10 +1,10 @@
 ---
-title: 'Hoobbuy Shoes Spreadsheet | Sneaker Finds and Footwear Guides'
-description: 'Explore the Hoobbuy Shoes Spreadsheet for sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots. Compare focused Hoobbuy sneaker finds by use case.'
+title: 'Hoobuy Shoes Spreadsheet | Sneaker Finds and Footwear Guides'
+description: 'Explore the Hoobuy Shoes Spreadsheet for sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots. Compare focused Hoobuy sneaker finds by use case.'
 category: Footwear
 tags:
-- Hoobbuy Shoes Spreadsheet
-- Hoobbuy Sneaker Finds
+- Hoobuy Shoes Spreadsheet
+- Hoobuy Sneaker Finds
 - Footwear Guides
 - Shoe Discovery
 updated: '2026-08-14T00:00:00Z'
@@ -140,9 +140,9 @@ const sizingTips = [
 ]
 </script>
 
-# Hoobbuy Shoes Spreadsheet
+# Hoobuy Shoes Spreadsheet
 
-The Hoobbuy Shoes Spreadsheet organizes sneaker and footwear discovery into practical paths, including running shoes, basketball shoes, casual sneakers, boots and slides. Choose a card below to open its dedicated article, then compare Hoobbuy sneaker finds using the fit, material and use-case guidance on that page.
+The Hoobuy Shoes Spreadsheet organizes sneaker and footwear discovery into practical paths, including running shoes, basketball shoes, casual sneakers, boots and slides. Choose a card below to open its dedicated article, then compare Hoobuy sneaker finds using the fit, material and use-case guidance on that page.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -248,14 +248,14 @@ Proper care extends the life of your shoes significantly:
 Build on your shoe knowledge with these connected resources:
 
 **Sneaker-Specific Guides:**
-- [Hoobbuy Sneakers Database](/blog/usfans-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
-- [Hoobbuy Running Shoes Guide](/blog/usfans-running-shoes/) — Performance running shoe comparisons and technology breakdowns
-- [Hoobbuy Basketball Shoes Guide](/blog/usfans-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
+- [Hoobuy Sneakers Database](/blog/usfans-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
+- [Hoobuy Running Shoes Guide](/blog/usfans-running-shoes/) — Performance running shoe comparisons and technology breakdowns
+- [Hoobuy Basketball Shoes Guide](/blog/usfans-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
 
 **Quality & Sizing Resources:**
-- [Hoobbuy QC Photos Tutorial](/blog/usfans-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
-- [Hoobbuy Sizing Guide](/blog/usfans-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
-- [Hoobbuy Legit Check](/blog/usfans-legit-check/) — Authentication markers and quality verification techniques
+- [Hoobuy QC Photos Tutorial](/blog/usfans-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
+- [Hoobuy Sizing Guide](/blog/usfans-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
+- [Hoobuy Legit Check](/blog/usfans-legit-check/) — Authentication markers and quality verification techniques
 
 ## Explore More Categories
 

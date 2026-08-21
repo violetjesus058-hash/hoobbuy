@@ -314,7 +314,7 @@ function processArticle(filePath) {
 // Main execution
 function main() {
   const files = fs.readdirSync(BLOG_DIR)
-    .filter(f => f.endsWith('.md') && !f.startsWith('hoobbuy-article-prompt') && !f.startsWith('hoobbuy-internal-link-rules'))
+    .filter(f => f.endsWith('.md') && !f.startsWith('hoobuy-article-prompt') && !f.startsWith('hoobuy-internal-link-rules'))
     .map(f => path.join(BLOG_DIR, f));
 
   console.log(`Processing ${files.length} articles...\n`);

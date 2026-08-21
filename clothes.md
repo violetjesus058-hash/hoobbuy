@@ -1,10 +1,10 @@
 ---
-title: 'Hoobbuy Clothing Spreadsheet | Clothing Finds, Fits and Guides'
-description: 'Explore the Hoobbuy Clothing Spreadsheet for hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides. Compare focused Hoobbuy clothing finds by category.'
+title: 'Hoobuy Clothing Spreadsheet | Clothing Finds, Fits and Guides'
+description: 'Explore the Hoobuy Clothing Spreadsheet for hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides. Compare focused Hoobuy clothing finds by category.'
 category: Clothing
 tags:
-- Hoobbuy Clothing Spreadsheet
-- Hoobbuy Clothing Finds
+- Hoobuy Clothing Spreadsheet
+- Hoobuy Clothing Finds
 - Clothing Guides
 - Apparel Discovery
 updated: '2026-08-14T00:00:00Z'
@@ -162,9 +162,9 @@ const brandOverview = [
 ]
 </script>
 
-# Hoobbuy Clothing Spreadsheet
+# Hoobuy Clothing Spreadsheet
 
-The Hoobbuy Clothing Spreadsheet brings together clothing-focused guides for T-shirts, hoodies, shirts, jackets, dresses, layers and everyday wardrobe pieces. Start with the category that matches your intended use, then open the connected article card to compare fit, materials, care considerations and relevant Hoobbuy clothing finds.
+The Hoobuy Clothing Spreadsheet brings together clothing-focused guides for T-shirts, hoodies, shirts, jackets, dresses, layers and everyday wardrobe pieces. Start with the category that matches your intended use, then open the connected article card to compare fit, materials, care considerations and relevant Hoobuy clothing finds.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -303,11 +303,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these clothing-specific resources:
 
-- [Hoobbuy Hoodies Guide](/blog/usfans-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
-- [Hoobbuy T-Shirts Guide](/blog/usfans-t-shirts/) — T-shirt materials, fit options, and quality indicators
-- [Hoobbuy Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and trend analysis
-- [Hoobbuy QC Photos](/blog/usfans-qc-photos/) — How to inspect clothing quality using pre-shipment photos
-- [Hoobbuy Sizing Guide](/blog/usfans-sizing-guide/) — Universal sizing guide for shoes and apparel
+- [Hoobuy Hoodies Guide](/blog/usfans-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
+- [Hoobuy T-Shirts Guide](/blog/usfans-t-shirts/) — T-shirt materials, fit options, and quality indicators
+- [Hoobuy Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and trend analysis
+- [Hoobuy QC Photos](/blog/usfans-qc-photos/) — How to inspect clothing quality using pre-shipment photos
+- [Hoobuy Sizing Guide](/blog/usfans-sizing-guide/) — Universal sizing guide for shoes and apparel
 
 ## Explore More Categories
 

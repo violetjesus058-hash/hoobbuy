@@ -14,7 +14,7 @@
             class="article-action article-action-primary"
             :class="{ 'is-unlinked': !spreadsheetLinked }"
           >
-            Access Hoobbuy spreadsheet
+            Access Hoobuy spreadsheet
           </component>
           <component
             :is="shoppingLinked ? 'a' : 'span'"

@@ -3,15 +3,15 @@
     <section class="hero-section">
       <div class="page-container hero-content">
         <p class="eyebrow">Curated fashion discovery · Updated regularly</p>
-        <h1>Hoobbuy Spreadsheet <span>2026</span></h1>
+        <h1>Hoobuy Spreadsheet <span>2026</span></h1>
         <p class="hero-copy">
-          Discover organized Hoobbuy finds across clothing, shoes, pants, hats, accessories and electronics,
+          Discover organized Hoobuy finds across clothing, shoes, pants, hats, accessories and electronics,
           with category overviews, focused guides and direct access to the full spreadsheet.
         </p>
         <div class="hero-actions">
           <div class="cta-preview-wrap cta-preview-spreadsheet">
             <div class="cta-preview-card" aria-hidden="true">
-              <img src="/images/hoobbuy-spreadsheet-preview.png" alt="Hoobbuy Spreadsheet preview showing curated product categories and shopping links" title="Hoobbuy Spreadsheet preview" />
+              <img src="/images/hoobuy-spreadsheet-preview.png" alt="Hoobuy Spreadsheet preview showing curated product categories and shopping links" title="Hoobuy Spreadsheet preview" />
               <span class="cta-preview-caption">Spreadsheet preview</span>
             </div>
             <a :href="links.spreadsheet" target="_blank" rel="nofollow noopener noreferrer" class="button button-primary cta-spreadsheet">
@@ -21,7 +21,7 @@
           </div>
           <div class="cta-preview-wrap cta-preview-shopping">
             <div class="cta-preview-card" aria-hidden="true">
-              <img src="/images/hoobbuy-shopping-preview.png" alt="Hoobbuy shopping preview showing product categories and item options" title="Hoobbuy shopping preview" />
+              <img src="/images/hoobuy-shopping-preview.png" alt="Hoobuy shopping preview showing product categories and item options" title="Hoobuy shopping preview" />
               <span class="cta-preview-caption">Shopping preview</span>
             </div>
             <a :href="shoppingUrl" target="_blank" rel="nofollow sponsored noopener noreferrer" class="button button-secondary cta-shopping">
@@ -149,7 +149,7 @@
         <div class="section-heading section-heading-left guides-heading">
           <p class="section-kicker">Start with the essentials</p>
           <h2>Useful context before you open the spreadsheet.</h2>
-          <p>New to Hoobbuy? These short guides explain how the platform works, what the spreadsheet is for and how to begin with a clearer plan.</p>
+          <p>New to Hoobuy? These short guides explain how the platform works, what the spreadsheet is for and how to begin with a clearer plan.</p>
         </div>
         <div class="guide-grid">
           <a v-for="guide in guideCards" :key="guide.title" :href="guide.link" class="guide-card">
@@ -167,7 +167,7 @@
           <p class="section-kicker">Refund and delivery help</p>
           <h2>Make refund, return and delivery questions visible.</h2>
           <p class="research-card-copy">Use a structured Hoobuy checklist for order status, carrier handoffs, evidence, cancellation rules and mistakes that need to be documented early.</p>
-          <a href="/blog/hoobbuy-community-buying-guide/" class="research-card-link">Read the Hoobuy research guide <span aria-hidden="true">→</span></a>
+          <a href="/blog/hoobuy-community-buying-guide/" class="research-card-link">Read the Hoobuy research guide <span aria-hidden="true">→</span></a>
         </div>
         <div class="research-card-note">
           <strong>Hoobuy community research</strong>
@@ -206,25 +206,25 @@ const categoryCards = computed(() => [
 const guideCards = [
   {
     label: 'Getting started',
-    title: 'How to Buy with Hoobbuy',
+    title: 'How to Buy with Hoobuy',
     description: 'A practical first look at browsing, comparing options and moving from a shortlist to an order with more confidence.',
     link: '/blog/usfans-how-to-buy/'
   },
   {
     label: 'Platform overview',
-    title: 'What Is Hoobbuy?',
+    title: 'What Is Hoobuy?',
     description: 'Get a simple introduction to the platform, the role it plays in product discovery and the information worth checking first.',
     link: '/blog/usfans-about/'
   },
   {
     label: 'Catalog explained',
-    title: 'What Is the Hoobbuy Spreadsheet?',
+    title: 'What Is the Hoobuy Spreadsheet?',
     description: 'Learn how an organized spreadsheet helps you compare product details, explore categories and return to useful finds faster.',
     link: '/blog/usfans-platform/'
   },
   {
     label: 'Why it helps',
-    title: 'Key Benefits of Hoobbuy',
+    title: 'Key Benefits of Hoobuy',
     description: 'See the value of clearer category paths, practical guides and direct catalog access before deciding where to start.',
     link: '/blog/usfans-complete-platform-guide/'
   }

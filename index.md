@@ -1,15 +1,15 @@
 ---
 layout: home
-title: 'Hoobbuy Spreadsheet 2026 | Hoobbuy Finds and Category Guides'
-description: 'Explore Hoobbuy Spreadsheet 2026 through organized Hoobbuy finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
-category: Hoobbuy Spreadsheet
+title: 'Hoobuy Spreadsheet 2026 | Hoobuy Finds and Category Guides'
+description: 'Explore Hoobuy Spreadsheet 2026 through organized Hoobuy finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
+category: Hoobuy Spreadsheet
 keywords:
-- Hoobbuy Spreadsheet 2026
-- Hoobbuy Spreadsheet
-- Hoobbuy finds
+- Hoobuy Spreadsheet 2026
+- Hoobuy Spreadsheet
+- Hoobuy finds
 tags:
-- Hoobbuy Spreadsheet 2026
-- Hoobbuy Finds
+- Hoobuy Spreadsheet 2026
+- Hoobuy Finds
 - Fashion Discovery
 - Category Guides
 updated: '2026-08-14T00:00:00Z'

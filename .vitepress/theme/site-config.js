@@ -1,5 +1,5 @@
 // ============================================================
-// Hoobbuy Spreadsheet Site Configuration
+// Hoobuy Spreadsheet Site Configuration
 // Usfanslinki.com - Fashion Finds Resource & Buying Guide
 // ============================================================
 
@@ -7,12 +7,12 @@ export const siteConfig = {
 
   // ---- Brand ----
   brand: {
-    name: 'Hoobbuy Spreadsheet',
+    name: 'Hoobuy Spreadsheet',
     tagline: 'Fashion Finds Resource & Buying Guide',
-    description: 'Independent resource for Hoobbuy Spreadsheet shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
+    description: 'Independent resource for Hoobuy Spreadsheet shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
-    logoText: 'Hoobbuy Spreadsheet',
+    logoText: 'Hoobuy Spreadsheet',
   },
 
   // ---- Navigation ----
@@ -31,7 +31,7 @@ export const siteConfig = {
   categories: [
     {
       id: 'clothes',
-      name: 'Hoobbuy Clothing Spreadsheet',
+      name: 'Hoobuy Clothing Spreadsheet',
       icon: '',
       description: 'Hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides with direct article paths.',
       blogLink: '/blog/usfans-hoodies/',
@@ -39,7 +39,7 @@ export const siteConfig = {
     },
     {
       id: 'shoes',
-      name: 'Hoobbuy Shoes Spreadsheet',
+      name: 'Hoobuy Shoes Spreadsheet',
       icon: '',
       description: 'Sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots.',
       blogLink: '/blog/usfans-sneakers/',
@@ -47,7 +47,7 @@ export const siteConfig = {
     },
     {
       id: 'pants',
-      name: 'Hoobbuy Pants Spreadsheet',
+      name: 'Hoobuy Pants Spreadsheet',
       icon: '',
       description: 'Jeans, pants, shorts, sweatpants and tracksuits with fit and fabric reading paths.',
       blogLink: '/blog/usfans-pants/',
@@ -55,7 +55,7 @@ export const siteConfig = {
     },
     {
       id: 'hats',
-      name: 'Hoobbuy Hats Spreadsheet',
+      name: 'Hoobuy Hats Spreadsheet',
       icon: '',
       description: 'Hats, caps, beanies, bucket hats and fit guides for everyday finishing pieces.',
       blogLink: '/blog/usfans-hats/',
@@ -63,7 +63,7 @@ export const siteConfig = {
     },
     {
       id: 'accessories',
-      name: 'Hoobbuy Accessories Spreadsheet',
+      name: 'Hoobuy Accessories Spreadsheet',
       icon: '',
       description: 'Bags, belts, jewelry, sunglasses, watches and wallets with direct article paths.',
       blogLink: '/blog/usfans-accessories/',
@@ -71,7 +71,7 @@ export const siteConfig = {
     },
     {
       id: 'electronics',
-      name: 'Hoobbuy Electronics Spreadsheet',
+      name: 'Hoobuy Electronics Spreadsheet',
       icon: '',
       description: 'Electronics, phones, iPhone resources, AirPods and tech gadget guides.',
       blogLink: '/blog/usfans-electronics/',
@@ -104,9 +104,9 @@ export const siteConfig = {
   // ---- SEO Defaults ----
   seo: {
     hostname: 'https://usfanslinki.com',
-    title: 'Hoobbuy Spreadsheet 2026 - Hoobbuy Finds, Category Guides and Product Research',
-    description: 'Explore Hoobbuy Spreadsheet 2026 through organized Hoobbuy finds, category overviews, focused guides and direct spreadsheet access.',
-    keywords: ['hoobbuy spreadsheet 2026', 'hoobbuy spreadsheet', 'hoobbuy finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
+    title: 'Hoobuy Spreadsheet 2026 - Hoobuy Finds, Category Guides and Product Research',
+    description: 'Explore Hoobuy Spreadsheet 2026 through organized Hoobuy finds, category overviews, focused guides and direct spreadsheet access.',
+    keywords: ['hoobuy spreadsheet 2026', 'hoobuy spreadsheet', 'hoobuy finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
     ga4: 'G-9WJTE8DY0P',
   },
 
